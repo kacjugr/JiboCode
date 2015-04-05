@@ -7,6 +7,6 @@ The basic structure is a mult-panel interface, with buttons/display sliding on/o
 
 During development, I noticed that the more times the module was reloaded automatically by gulp (when saving changes in .js/.css/.html files), the more likely it was to throw a console error stating "Uncaught Error: jquery not yet loaded for context". When this happens, the end-game color fade does not execute. I noticed the problem tends to go away (sometimes) when reloading the page by retyping the URL (or my 'localhost:9000' bookmark). I tried several versions of the define()/require() parameters at the top of the module, but was unable to figure out what was going wrong. I'd need more platform experience to figure it out.
 
-I intend to work on Floyd's Algorithm in my free time, because it looks fun. However, I may not have it finished by Monday.
+I intend to work on Floyd's Algorithm in my free time, because it looks fun. However, I may not have it finished by Monday. It currently has the input boxes for initial state, but does no processing.  I'll email you when it's complete!
 
 Thanks, Jon
