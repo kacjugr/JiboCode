@@ -1,0 +1,34 @@
+body {
+    color: #000;
+    font-family:Monospace;
+    font-size:13px;
+    text-align:center;
+    font-weight: bold;
+	
+    background-color: #d0e4fe;
+    margin: 0px;
+    overflow: hidden;
+}
+
+h1 {
+	color:orange;
+    font-family:verdana;
+    font-size:200%
+}
+
+p#playInstruc {
+	color:blue;
+}
+
+p#floydInstruc {
+	color:blue;
+}
+
+th {
+	text-align:center;
+}
+
+table#mapTable {
+	padding: 1px;
+	border: 1px solid black;
+}
